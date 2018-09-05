@@ -1,0 +1,2 @@
+# alip
+auto alipay
